@@ -1,0 +1,2 @@
+almacenar varios datos de estudiante (nombre, apellido, carrera, promedio)
+aplicar una beca del 30% si su promedio es mas de 85% o mas
