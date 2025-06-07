@@ -20,7 +20,7 @@ def agregar_estudiante():
     lista.agregar_estudiante(est)
 
 def mostrar_estudiantes():
-    print("Regisistro de estudiantes")
+    print("**Regisistro de estudiantes**")
     for est in lista.mostrar():
         print(est)
 
