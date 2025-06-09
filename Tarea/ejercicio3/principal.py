@@ -22,7 +22,7 @@ def main():
             continue
 
     resultado, suma = suma_digitos_potencia(numero, exponente)
-    print(f"\nEl numero {numero}^ a {exponente} da igual a = {resultado}")
+    print(f"\nEl numero {numero} ^ a {exponente} da igual a = {resultado}")
     print(f"Y la suma de los dígitos es: {suma}")
 
 main()
