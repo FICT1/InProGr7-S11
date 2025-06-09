@@ -4,7 +4,7 @@ def main():
     op.limpiar()
 
     while True:
-        numero = input("Ingresa un número entero no negativo: ")
+        numero = input("Ingresa un número entero no negativo \n--> ")
 
         try:
             numero = int(numero)

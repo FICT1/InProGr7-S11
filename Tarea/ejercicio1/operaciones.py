@@ -2,8 +2,8 @@ def limpiar():
     import os
     os.system ("cls || clear")
 def factorial (n):
-    try :
-        n = int(n)
+    try:
+        n= int(n)
     except ValueError:
         return ("El valor ingresado no es un numero entero")
     if n < 0:
